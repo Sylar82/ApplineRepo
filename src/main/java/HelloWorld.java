@@ -1,12 +1,7 @@
-
-import java.util.Scanner;
-
 public class HelloWorld {
     public static void main(String[] args) {
 //        Задание №3
 //        System.out.print("Hello World!");
-//        String BinaryInput;
-//         int IntResult = 0;
 
 //        Запуск задания №4
 //         Exercise4.exercise4();
@@ -38,6 +33,17 @@ public class HelloWorld {
 //        Запуск задания #13
 //         Exercise13.exercise13();
 
+//        Запуск задания №14
+//         Exercise14.exercise14();
+
+//        Запуск задания №15
+//         Exercise15.exercise15();
+
+//        Запуск задания №16
+//         Exercise16.exercise16();
+
+//        Запуск задания №17
+        Exercise17.exercise17();
     }
 
 }
