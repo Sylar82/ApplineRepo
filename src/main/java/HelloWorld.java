@@ -43,7 +43,20 @@ public class HelloWorld {
 //         Exercise16.exercise16();
 
 //        Запуск задания №17
-        Exercise17.exercise17();
+        //     Exercise17.exercise17();
+
+//        Запуск задания 18
+//         Exercise18.readFile();
+//         Exercise18.writeFile();
+
+//        Запуск итогового задания №1
+//         FinalExercise1.finalExercise1();
+
+//        Запуск итогового задания №2
+//         FinalExercise2.finalExercise2();
+
+//        Запуск итогового задания №3
+        FinalExercise3.finalExercise3();
     }
 
 }
